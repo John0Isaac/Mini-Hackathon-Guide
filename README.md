@@ -34,7 +34,12 @@ Your team will obtain the starter, deploy the application to the cloud, download
 
 ## Validation
 
-JUDJING CRITERIA HERE!
+- "Index.html", "main.css", and "script.js" files exist (bonus for a good folder structure and more html files)
+- The html file has no errors or warnings (use an [html validator](https://validator.w3.org/#validate_by_input) if needed)
+- The website has your name, summary, and some projects
+- The website is visually appealing
+- The "scroll back to top" button is applied
+- An action occurrs when the submit button is pressed
 
 ## Additional notes and disclaimers
 
