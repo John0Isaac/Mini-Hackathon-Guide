@@ -1,6 +1,6 @@
 # Portfolio : Personal Website
 
-This project is a part of the 2021 DevFest. it's is a simple portoflio that hosts.
+This project is a part of the GDG New Cairo 2021 DevFest. it's is a simple project that includes participants information and previous projects.
 
 ## Prerequisites
 
