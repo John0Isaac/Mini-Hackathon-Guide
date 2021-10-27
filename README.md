@@ -9,13 +9,13 @@ This project is a part of the GDG New Cairo 2021 DevFest. it's is a simple proje
 ### Skills
 
 - HTML, CSS and JavaScript
-- Git and GitHub
+- Git and GitHub [Optional]
   - [Forking](https://docs.github.com/github/getting-started-with-github/quickstart/fork-a-repo) and [cloning](https://docs.github.com/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) repositories
   - [Creating and managing branches](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches)
 
 ### Software
 
-- [Git](https://git-scm.com/downloads)
+- [Git](https://git-scm.com/downloads) [Optional]
   - [Install git on macOS](https://git-scm.com/download/mac)
   - [Install git on Windows](https://git-scm.com/download/win)
   - [Install git on Linux](https://git-scm.com/download/linux)
