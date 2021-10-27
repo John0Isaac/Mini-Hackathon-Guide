@@ -32,7 +32,9 @@ Your team will obtain the starter, deploy the application to the cloud, download
 1. [Modify the site and push updates](./goals/3-modify.md):
    The template uses a relatively generic example of a task management system. You want to update the landing page to display a proper welcome message and update the verbiage to include the suggested usage - tracking what the pet adopter needs to do post adoption.
 
-## Validation
+## Submission & Validation
+
+Please submit your code to the following link [Mini Hackathon Submission Form](https://forms.gle/HX9WRnu9RNpxHf9s5)
 
 - "Index.html", "main.css", and "script.js" files exist (bonus for a good folder structure and more html files)
 - The html file has no errors or warnings (use an [html validator](https://validator.w3.org/#validate_by_input) if needed)
