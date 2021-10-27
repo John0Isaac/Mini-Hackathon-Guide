@@ -1,6 +1,6 @@
 # Portfolio : Personal Website
 
-PROJECT DESCRIPTION HERE!
+This project is a part of the 2021 DevFest. it's is a simple portoflio that hosts.
 
 ## Prerequisites
 
